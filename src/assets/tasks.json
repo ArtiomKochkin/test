@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "task": "Choose the right answer",
+        "question": "which shape shows first?",
+        "imagePath": "../assets/img/task_img.png",
+        "options": ["A", "B", "C"],
+        "correctAnswer": "A"
+    },
+    {
+        "id": 2,
+        "task": "Choose the right answer",
+        "question": "which shape shows second?",
+        "imagePath": "../assets/img/task_img.png",
+        "options": ["C", "B", "A"],
+        "correctAnswer": "B"
+    },
+    {
+        "id": 3,
+        "task": "Choose the right answer",
+        "question": "which shape shows third?",
+        "imagePath": "../assets/img/task_img.png",
+        "options": ["A", "C", "B"],
+        "correctAnswer": "B"
+    }
+]
